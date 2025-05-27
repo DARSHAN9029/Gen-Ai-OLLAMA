@@ -44,7 +44,6 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 Install the required dependencies:
 ```bash
 pip install -r requirements.txt
-Create a .env file in the root directory and add your Langchain API key:
 ```
 ---
 Run the Streamlit app with:
